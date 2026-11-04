@@ -1,1 +1,0 @@
-{"name":"desktop-gaze-dataset-explorer","version":"1.0.0","private":true,"description":"Buildless dataset explorer for GitHub Pages","scripts":{"test":"node --test tools/core.test.cjs"}}
