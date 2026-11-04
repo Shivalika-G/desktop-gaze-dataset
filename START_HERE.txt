@@ -1,0 +1,20 @@
+DESKTOP GAZE — FINAL REVIEWER PAGE
+
+1. Extract the ZIP.
+2. Open index.html to preview the page.
+3. Upload the extracted contents to your GitHub repository root.
+4. Settings > Pages > Deploy from a branch > main > /(root) > Save.
+5. Use the URL GitHub displays after deployment.
+
+INCLUDED
+150 participants; 4,452,141 task observations; 699,805 calibration observations.
+Calibration explorer, seven activities, individual numerical examples,
+searchable CSV tables, downloads and two reserved media walkthroughs.
+
+TO ADD SUBJECT MEDIA LATER
+Read docs/SUBJECT_EXAMPLE_CHECKLIST.md.
+Put reviewed files in media/examples/ and edit assets/examples-config.js.
+
+UPDATING AN EARLIER VERSION
+Replace the publication folder with these contents and remove older files
+that are absent from this package. Keep original research files separately.
